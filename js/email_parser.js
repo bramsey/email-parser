@@ -11,9 +11,9 @@ $(document).ready(function() {
 		$output_box.val(list);
 		
 		if(list != "") {
-			$output_box.fadeIn('fast');
+			$output_box.slideDown('fast');
 		} else {
-			$output_box.fadeOut('fast');
+			$output_box.slideUp('fast');
 		}
 	});
 	
