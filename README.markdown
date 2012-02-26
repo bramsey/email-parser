@@ -5,3 +5,7 @@ The goal of this tool is to provide an easy way to extract all the emails out of
 ## How to use
 
 Simply paste some text into the text area on the index page and a formatted list of all the email addresses found in that text will appear in another text area.  Copy that list and paste it into the to or cc fields of your email client and send away!
+
+## Try it out
+
+http://billiamram.com/email-parser/
